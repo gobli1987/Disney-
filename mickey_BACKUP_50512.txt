@@ -1,5 +1,6 @@
 first commit for mickey
+<<<<<<< Updated upstream
 introducing goofy
-
+=======
 intoducing donald 
-
+>>>>>>> Stashed changes
